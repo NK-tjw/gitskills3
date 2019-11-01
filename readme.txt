@@ -1,4 +1,3 @@
 Hello world!
 Creating a new branch is quick and simple.
-add merge.
-bug happen!
+add some merges.
